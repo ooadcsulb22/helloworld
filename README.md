@@ -1,1 +1,2 @@
 # helloworld
+alert('hi');
